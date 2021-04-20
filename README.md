@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swansrun
-- 👀 I’m interested in Discord, especially bots & rpc
-- 🌱 I’m currently learning Python.
-- 📫 You can reach me on Discord: swan#2006
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning nothing bc i dont like coding.
+- 📫 You can reach me on Discord: swan#0002
 
 <!---
 swansrun/swansrun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
